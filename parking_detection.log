@@ -2338,3 +2338,3018 @@
 2024-11-06 17:45:12,712 - INFO - Processing interrupted by user
 2024-11-06 17:46:17,142 - INFO - Processing interrupted by user
 2024-11-06 17:46:17,146 - INFO - Processing completed
+2024-11-06 17:46:56,262 - INFO - Processing interrupted by user
+2024-11-06 17:46:56,266 - INFO - Processing completed
+2024-11-07 10:14:43,254 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,744 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,746 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,765 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,766 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,785 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,787 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,806 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,807 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,823 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,824 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,840 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,841 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,857 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,858 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,873 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,874 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,890 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,891 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,907 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,908 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,924 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,925 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,941 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,941 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,958 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,959 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,976 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,977 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,993 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:43,995 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,011 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,012 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,058 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,059 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,082 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,083 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,099 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,100 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,116 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,117 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,133 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,133 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,149 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,150 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,166 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,167 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,183 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,184 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,200 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,201 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,218 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,219 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,236 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,237 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,254 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,255 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,271 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,272 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,288 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,289 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,305 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,305 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,369 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,370 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,396 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,404 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,427 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,428 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,450 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,451 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,474 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,475 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,497 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,498 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,520 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,521 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,545 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,546 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,568 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,569 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,592 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,592 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,615 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,616 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,639 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,640 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,662 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,663 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,687 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,688 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,711 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,712 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,736 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,736 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,760 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,761 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,784 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,785 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,812 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,813 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,837 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,838 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,862 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,863 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,887 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,888 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,912 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,913 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,937 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,937 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,960 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,960 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,983 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:44,984 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,008 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,009 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,032 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,033 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,056 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,057 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,081 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,082 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,106 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,107 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,132 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,133 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,159 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,160 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,184 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,185 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,310 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,311 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,336 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,337 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,362 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,363 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,388 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,388 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,413 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,414 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,438 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,439 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,464 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,465 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,489 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,490 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,514 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,515 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,539 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,540 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,565 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,566 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,591 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,592 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,617 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,618 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,641 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,642 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,666 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,666 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,691 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,691 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,716 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,716 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,740 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,740 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,764 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,765 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,788 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,789 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,812 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,813 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,837 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,837 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,861 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,862 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,885 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,885 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,907 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,908 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,931 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,932 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,955 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,956 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,979 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:45,980 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,004 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,005 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,029 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,029 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,053 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,054 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,077 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,078 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,100 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,101 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,124 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,125 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,148 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,148 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,172 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,172 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,195 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,196 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,220 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,221 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,244 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,245 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,269 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,270 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,294 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,295 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,319 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,320 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,344 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,344 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,369 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,369 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,393 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,393 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,417 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,418 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,443 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,443 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,467 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,468 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,492 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,492 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,517 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,517 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,541 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,542 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,565 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,566 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,590 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,591 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,615 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,616 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,639 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,640 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,664 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,665 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,688 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,689 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,713 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,714 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,738 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,739 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,761 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,762 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,785 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,786 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,810 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,811 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,834 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,834 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,858 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,858 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,882 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,883 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,907 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,908 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,932 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,933 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,957 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,958 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,982 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:46,983 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,006 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,007 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,031 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,032 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,056 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,056 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,080 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,081 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,105 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,106 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,131 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,131 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,156 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,157 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,181 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,182 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,205 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,206 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,230 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,230 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,254 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,255 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,278 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,279 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,302 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,303 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,328 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,328 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,351 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,352 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,377 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,377 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,401 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,402 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,425 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,425 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,448 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,449 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,472 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,473 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,524 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,525 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,570 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,571 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,608 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,609 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,639 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,641 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,670 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,672 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,704 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,705 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:14:47,722 - INFO - Processing interrupted by user
+2024-11-07 10:15:41,377 - INFO - Processing interrupted by user
+2024-11-07 10:15:41,381 - INFO - Processing completed
+2024-11-07 10:15:49,532 - INFO - Processing interrupted by user
+2024-11-07 10:15:49,534 - INFO - Processing completed
+2024-11-07 10:16:42,472 - INFO - Processing interrupted by user
+2024-11-07 10:16:42,475 - INFO - Processing completed
+2024-11-07 10:19:00,436 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,660 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,662 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,689 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,690 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,711 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,712 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,729 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,730 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,745 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,746 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,762 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,763 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,778 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,779 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,795 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,796 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,812 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,813 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,829 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,830 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,847 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,848 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,865 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,866 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,883 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,884 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,902 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,903 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,920 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,921 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,937 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,938 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,954 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:00,956 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,027 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,028 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,048 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,049 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,067 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,068 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,086 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,087 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,105 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,106 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,122 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,123 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,139 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,140 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,156 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,157 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,173 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,174 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,190 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,191 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,207 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,208 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,225 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,225 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,241 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,242 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,258 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,259 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,320 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,321 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,347 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,347 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,372 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,372 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,395 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,396 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,419 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,419 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,442 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,442 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,466 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,467 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,489 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,490 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,513 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,514 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,536 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,537 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,561 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,561 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,585 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,586 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,610 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,610 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,634 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,635 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,659 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,660 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,683 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,684 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,707 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,708 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,731 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,732 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,756 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,758 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,781 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,782 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,805 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,806 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,830 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,831 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,854 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,855 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,879 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,881 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,904 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,905 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,928 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,928 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,952 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,953 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,976 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:01,977 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,005 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,006 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,032 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,033 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,058 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,059 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,084 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,084 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,109 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,110 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,133 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,134 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,157 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,158 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,181 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,182 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,206 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,206 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,230 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,231 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,256 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,257 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,281 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,282 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,307 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,308 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,333 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,334 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,359 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,360 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,384 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,385 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,409 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,410 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,435 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,436 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,460 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,461 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,484 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,485 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,509 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,510 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,534 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,535 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,558 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,559 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,582 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,583 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,607 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,608 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,632 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,633 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,657 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,657 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,682 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,683 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,707 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,708 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,731 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,732 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,755 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,755 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,780 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,781 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,804 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,804 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,826 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,827 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,851 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,852 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,876 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,877 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,900 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,901 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,924 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,925 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,948 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,949 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,972 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,973 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,996 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:02,997 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,021 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,022 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,046 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,047 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,071 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,072 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,095 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,096 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,119 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,120 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,145 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,146 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,170 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,171 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,195 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,195 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,220 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,221 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,245 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,246 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,270 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,270 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,295 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,296 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,319 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,320 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,345 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,346 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,370 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,371 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,395 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,395 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,419 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,420 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,443 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,443 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,468 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,469 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,492 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,493 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,518 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,518 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,543 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,544 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,568 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,569 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,593 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,594 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,618 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,619 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,642 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,643 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,667 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,668 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,691 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,691 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,715 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,716 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,740 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,741 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,765 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,766 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,790 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,791 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,854 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,857 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,898 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,899 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,929 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,931 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,959 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,960 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,995 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:03,997 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:04,034 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:04,036 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:04,064 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:19:04,065 - ERROR - Detection error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'blobFromImage'
+> Overload resolution failed:
+>  - Scalar value for argument 'mean' is not numeric
+>  - Scalar value for argument 'mean' is not numeric
+
+2024-11-07 10:23:31,019 - INFO - Processing interrupted by user
+2024-11-07 10:23:31,023 - INFO - Processing completed
+2024-11-07 10:25:32,803 - INFO - Processing interrupted by user
+2024-11-07 10:25:32,806 - INFO - Processing completed
+2024-11-07 10:25:50,718 - INFO - Processing interrupted by user
+2024-11-07 10:25:50,721 - INFO - Processing completed

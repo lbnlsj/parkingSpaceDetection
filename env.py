@@ -24,19 +24,95 @@ class ParkingDetectorEnv:
             'confidence_threshold': 0.5,
             'nms_threshold': 0.4,
             'scale_factor': 0.007843,
-            'mean': 127.5
+            'mean': (127.5, 127.5, 127.5)  # 使用元组存储RGB三通道的mean值
         }
+
+    def extract_state_features(self, frame, detections, ground_truth_boxes):
+        """提取状态特征，确保输出11维特征向量"""
+        features = []
+
+        # 1. 检测框数量特征
+        det_count = len(detections)
+        gt_count = len(ground_truth_boxes)
+        features.append(det_count / max(gt_count, 1))  # 归一化的数量比
+
+        # 2. IOU特征
+        max_iou = 0
+        mean_iou = 0
+        if det_count > 0 and gt_count > 0:
+            ious = []
+            for det in detections:
+                best_iou = max(self.calculate_iou(det, gt) for gt in ground_truth_boxes)
+                ious.append(best_iou)
+            max_iou = max(ious)
+            mean_iou = sum(ious) / len(ious)
+        features.extend([max_iou, mean_iou])
+
+        # 3. 位置和大小特征
+        if det_count > 0:
+            det_centers = np.array([[(box[0] + box[2]) / 2, (box[1] + box[3]) / 2]
+                                    for box in detections])
+            det_sizes = np.array([(box[2] - box[0], box[3] - box[1])
+                                  for box in detections])
+            features.extend([
+                np.mean(det_centers[:, 0]) / frame.shape[1],  # 平均x位置
+                np.mean(det_centers[:, 1]) / frame.shape[0],  # 平均y位置
+                np.mean(det_sizes[:, 0]) / frame.shape[1],  # 平均宽度
+                np.mean(det_sizes[:, 1]) / frame.shape[0]  # 平均高度
+            ])
+        else:
+            features.extend([0, 0, 0, 0])
+
+        # 4. 模型参数特征 - 修改这里，使用mean的第一个通道值
+        features.extend([
+            self.model_config['confidence_threshold'],
+            self.model_config['nms_threshold'],
+            self.model_config['scale_factor'],
+            self.model_config['mean'][0] / 255.0  # 只使用第一个通道的值进行归一化
+        ])
+
+        return np.array(features, dtype=np.float32)
+
+    def apply_model_adjustments(self, param_adjustments):
+        """应用模型参数调整"""
+        config_adjustments = param_adjustments[:4]  # 假设前4个调整值用于配置
+
+        # 调整置信度阈值
+        self.model_config['confidence_threshold'] = np.clip(
+            self.model_config['confidence_threshold'] + config_adjustments[0] * 0.1,
+            0.1, 0.9
+        )
+
+        # 调整NMS阈值
+        self.model_config['nms_threshold'] = np.clip(
+            self.model_config['nms_threshold'] + config_adjustments[1] * 0.1,
+            0.1, 0.9
+        )
+
+        # 调整缩放因子
+        self.model_config['scale_factor'] = np.clip(
+            self.model_config['scale_factor'] * (1 + config_adjustments[2] * 0.1),
+            0.001, 0.01
+        )
+
+        # 调整均值 - 修改为调整所有通道
+        mean_adjustment = 1 + config_adjustments[3] * 0.1
+        new_mean = np.clip(np.array(self.model_config['mean']) * mean_adjustment, 100, 150)
+        self.model_config['mean'] = tuple(new_mean)  # 转换回元组格式
+
+    """停车位检测环境类"""
 
     def get_current_detections(self, frame):
         """获取当前检测结果"""
         try:
-            # 使用当前配置进行预处理
+            # 预处理 - 确保mean参数正确传递
             blob = cv2.dnn.blobFromImage(
                 cv2.resize(frame, (300, 300)),
-                self.model_config['scale_factor'],
-                (300, 300),
-                self.model_config['mean'],
-                swapRB=True
+                scalefactor=self.model_config['scale_factor'],
+                size=(300, 300),
+                mean=self.model_config['mean'],  # 使用元组格式的mean值
+                swapRB=True,
+                crop=False
             )
 
             self.net.setInput(blob)
@@ -63,41 +139,15 @@ class ParkingDetectorEnv:
                     self.model_config['confidence_threshold'],
                     self.model_config['nms_threshold']
                 )
-                valid_detections = valid_detections[indices.flatten()]
+                if len(indices) > 0:  # 确保indices不为空
+                    indices = indices.flatten()
+                    valid_detections = valid_detections[indices]
 
             return np.array(valid_detections)
 
         except Exception as e:
-            logging.error(f"Detection error: {e}")
+            logging.error(f"Detection error: {str(e)}")
             return np.array([])
-
-    def apply_model_adjustments(self, param_adjustments):
-        """应用模型参数调整"""
-        config_adjustments = param_adjustments[:4]  # 假设前4个调整值用于配置
-
-        # 调整置信度阈值
-        self.model_config['confidence_threshold'] = np.clip(
-            self.model_config['confidence_threshold'] + config_adjustments[0] * 0.1,
-            0.1, 0.9
-        )
-
-        # 调整NMS阈值
-        self.model_config['nms_threshold'] = np.clip(
-            self.model_config['nms_threshold'] + config_adjustments[1] * 0.1,
-            0.1, 0.9
-        )
-
-        # 调整缩放因子
-        self.model_config['scale_factor'] = np.clip(
-            self.model_config['scale_factor'] * (1 + config_adjustments[2] * 0.1),
-            0.001, 0.01
-        )
-
-        # 调整均值
-        self.model_config['mean'] = np.clip(
-            self.model_config['mean'] * (1 + config_adjustments[3] * 0.1),
-            100, 150
-        )
 
     def apply_box_adjustments(self, box_adjustments, detections):
         """应用边界框调整"""
@@ -144,52 +194,6 @@ class ParkingDetectorEnv:
             ious.append(best_iou)
 
         return sum(ious) / len(ious)
-
-    def extract_state_features(self, frame, detections, ground_truth_boxes):
-        """提取状态特征，确保输出11维特征向量"""
-        features = []
-
-        # 1. 检测框数量特征
-        det_count = len(detections)
-        gt_count = len(ground_truth_boxes)
-        features.append(det_count / max(gt_count, 1))  # 归一化的数量比
-
-        # 2. IOU特征
-        max_iou = 0
-        mean_iou = 0
-        if det_count > 0 and gt_count > 0:
-            ious = []
-            for det in detections:
-                best_iou = max(self.calculate_iou(det, gt) for gt in ground_truth_boxes)
-                ious.append(best_iou)
-            max_iou = max(ious)
-            mean_iou = sum(ious) / len(ious)
-        features.extend([max_iou, mean_iou])
-
-        # 3. 位置和大小特征
-        if det_count > 0:
-            det_centers = np.array([[(box[0] + box[2]) / 2, (box[1] + box[3]) / 2]
-                                    for box in detections])
-            det_sizes = np.array([(box[2] - box[0], box[3] - box[1])
-                                  for box in detections])
-            features.extend([
-                np.mean(det_centers[:, 0]) / frame.shape[1],  # 平均x位置
-                np.mean(det_centers[:, 1]) / frame.shape[0],  # 平均y位置
-                np.mean(det_sizes[:, 0]) / frame.shape[1],  # 平均宽度
-                np.mean(det_sizes[:, 1]) / frame.shape[0]  # 平均高度
-            ])
-        else:
-            features.extend([0, 0, 0, 0])
-
-        # 4. 模型参数特征
-        features.extend([
-            self.model_config['confidence_threshold'],
-            self.model_config['nms_threshold'],
-            self.model_config['scale_factor'],
-            self.model_config['mean'] / 255.0  # 归一化mean值
-        ])
-
-        return np.array(features, dtype=np.float32)
 
     def calculate_reward(self, current_iou, best_iou):
         """计算奖励"""
