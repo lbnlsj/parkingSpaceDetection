@@ -6,8 +6,6 @@ import xml.etree.ElementTree as ET
 
 
 class ParkingDetectorEnv:
-    """停车位检测环境类"""
-
     def __init__(self, prototxt_path: str, model_path: str, input_dim=20, n_actions=10):
         if not Path(prototxt_path).exists():
             raise FileNotFoundError(f"Prototxt file not found: {prototxt_path}")
@@ -24,8 +22,167 @@ class ParkingDetectorEnv:
             'confidence_threshold': 0.5,
             'nms_threshold': 0.4,
             'scale_factor': 0.007843,
-            'mean': (127.5, 127.5, 127.5)  # 使用元组存储RGB三通道的mean值
+            'mean': (127.5, 127.5, 127.5)
         }
+
+        # 更严格的检测框大小限制
+        self.size_limits = {
+            'min_width_ratio': 0.03,  # 最小宽度占图像宽度的比例
+            'max_width_ratio': 0.15,  # 最大宽度占图像宽度的比例 (更严格限制)
+            'min_height_ratio': 0.03,  # 最小高度占图像高度的比例
+            'max_height_ratio': 0.15,  # 最大高度占图像高度的比例 (更严格限制)
+            'max_area_ratio': 0.02,  # 最大面积占图像面积的比例
+        }
+
+    def adjust_detection_size(self, box: np.ndarray, frame_shape: tuple) -> np.ndarray:
+        """
+        调整检测框大小到合理范围，更严格的大小控制
+        """
+        frame_height, frame_width = frame_shape[:2]
+        adjusted_box = box.copy()
+
+        # 计算当前框的中心点
+        center_x = (box[0] + box[2]) / 2
+        center_y = (box[1] + box[3]) / 2
+
+        # 计算当前框的宽度和高度
+        width = box[2] - box[0]
+        height = box[3] - box[1]
+
+        # 计算相对于图像的比例
+        width_ratio = width / frame_width
+        height_ratio = height / frame_height
+        area_ratio = (width * height) / (frame_width * frame_height)
+
+        # 调整过大的框
+        if width_ratio > self.size_limits['max_width_ratio'] or area_ratio > self.size_limits['max_area_ratio']:
+            new_width = min(
+                frame_width * self.size_limits['max_width_ratio'],
+                np.sqrt(self.size_limits['max_area_ratio'] * frame_width * frame_height * (width / height))
+            )
+            adjusted_box[0] = max(0, int(center_x - new_width / 2))
+            adjusted_box[2] = min(frame_width, int(center_x + new_width / 2))
+
+        if height_ratio > self.size_limits['max_height_ratio'] or area_ratio > self.size_limits['max_area_ratio']:
+            new_height = min(
+                frame_height * self.size_limits['max_height_ratio'],
+                np.sqrt(self.size_limits['max_area_ratio'] * frame_width * frame_height * (height / width))
+            )
+            adjusted_box[1] = max(0, int(center_y - new_height / 2))
+            adjusted_box[3] = min(frame_height, int(center_y + new_height / 2))
+
+        # 调整过小的框
+        if width_ratio < self.size_limits['min_width_ratio']:
+            new_width = frame_width * self.size_limits['min_width_ratio']
+            adjusted_box[0] = max(0, int(center_x - new_width / 2))
+            adjusted_box[2] = min(frame_width, int(center_x + new_width / 2))
+
+        if height_ratio < self.size_limits['min_height_ratio']:
+            new_height = frame_height * self.size_limits['min_height_ratio']
+            adjusted_box[1] = max(0, int(center_y - new_height / 2))
+            adjusted_box[3] = min(frame_height, int(center_y + new_height / 2))
+
+        return adjusted_box
+
+    def is_reasonable_detection(self, box: np.ndarray, frame_shape: tuple) -> bool:
+        """
+        检查检测框是否合理
+        """
+        frame_height, frame_width = frame_shape[:2]
+
+        # 计算框的宽度、高度和面积比例
+        width = box[2] - box[0]
+        height = box[3] - box[1]
+        width_ratio = width / frame_width
+        height_ratio = height / frame_height
+        area_ratio = (width * height) / (frame_width * frame_height)
+
+        # 检查所有条件
+        return (width_ratio <= self.size_limits['max_width_ratio'] and
+                height_ratio <= self.size_limits['max_height_ratio'] and
+                area_ratio <= self.size_limits['max_area_ratio'] and
+                width_ratio >= self.size_limits['min_width_ratio'] and
+                height_ratio >= self.size_limits['min_height_ratio'])
+
+    def get_current_detections(self, frame):
+        """获取当前检测结果"""
+        try:
+            blob = cv2.dnn.blobFromImage(
+                cv2.resize(frame, (300, 300)),
+                scalefactor=self.model_config['scale_factor'],
+                size=(300, 300),
+                mean=self.model_config['mean'],
+                swapRB=True,
+                crop=False
+            )
+
+            self.net.setInput(blob)
+            detections = self.net.forward()
+
+            valid_detections = []
+            for i in range(detections.shape[2]):
+                confidence = detections[0, 0, i, 2]
+                if confidence > self.model_config['confidence_threshold']:
+                    box = detections[0, 0, i, 3:7] * np.array([
+                        frame.shape[1], frame.shape[0],
+                        frame.shape[1], frame.shape[0]
+                    ])
+                    box = box.astype("int")
+
+                    # 检查并调整框的大小
+                    adjusted_box = self.adjust_detection_size(box, frame.shape)
+                    if self.is_reasonable_detection(adjusted_box, frame.shape):
+                        valid_detections.append(adjusted_box)
+
+            # 应用NMS
+            if len(valid_detections) > 0:
+                valid_detections = np.array(valid_detections)
+                scores = detections[0, 0, :len(valid_detections), 2]
+                indices = cv2.dnn.NMSBoxes(
+                    valid_detections.tolist(),
+                    scores.tolist(),
+                    self.model_config['confidence_threshold'],
+                    self.model_config['nms_threshold']
+                )
+                if len(indices) > 0:
+                    indices = indices.flatten()
+                    valid_detections = valid_detections[indices]
+
+            return np.array(valid_detections)
+
+        except Exception as e:
+            logging.error(f"Detection error: {str(e)}")
+            return np.array([])
+
+    def apply_box_adjustments(self, box_adjustments, detections):
+        """应用边界框调整"""
+        if len(detections) == 0:
+            return
+
+        # 将调整应用到所有检测框
+        adjustments = np.array([
+            box_adjustments[0] * 10,  # x调整
+            box_adjustments[1] * 10,  # y调整
+            box_adjustments[2] * 5,  # 宽度调整
+            box_adjustments[3] * 5  # 高度调整
+        ], dtype=np.float32)
+
+        adjusted_detections = detections.astype(np.float32)
+
+        # 逐个调整每个检测框
+        for i in range(len(adjusted_detections)):
+            # 应用调整
+            adjusted_detections[i, :4] += adjustments
+
+            # 确保调整后的框大小合理
+            adjusted_detections[i] = self.adjust_detection_size(
+                adjusted_detections[i],
+                frame_shape=(adjusted_detections.shape[0], adjusted_detections.shape[1])
+            )
+
+        # 转换回整数类型
+        detections[:] = adjusted_detections.round().astype(np.int64)
+
 
     def extract_state_features(self, frame, detections, ground_truth_boxes):
         """提取状态特征，确保输出11维特征向量"""
@@ -99,75 +256,6 @@ class ParkingDetectorEnv:
         mean_adjustment = 1 + config_adjustments[3] * 0.1
         new_mean = np.clip(np.array(self.model_config['mean']) * mean_adjustment, 100, 150)
         self.model_config['mean'] = tuple(new_mean)  # 转换回元组格式
-
-    """停车位检测环境类"""
-
-    def get_current_detections(self, frame):
-        """获取当前检测结果"""
-        try:
-            # 预处理 - 确保mean参数正确传递
-            blob = cv2.dnn.blobFromImage(
-                cv2.resize(frame, (300, 300)),
-                scalefactor=self.model_config['scale_factor'],
-                size=(300, 300),
-                mean=self.model_config['mean'],  # 使用元组格式的mean值
-                swapRB=True,
-                crop=False
-            )
-
-            self.net.setInput(blob)
-            detections = self.net.forward()
-
-            # 使用当前置信度阈值过滤检测结果
-            valid_detections = []
-            for i in range(detections.shape[2]):
-                confidence = detections[0, 0, i, 2]
-                if confidence > self.model_config['confidence_threshold']:
-                    box = detections[0, 0, i, 3:7] * np.array([
-                        frame.shape[1], frame.shape[0],
-                        frame.shape[1], frame.shape[0]
-                    ])
-                    valid_detections.append(box.astype("int"))
-
-            # 应用NMS
-            if len(valid_detections) > 0:
-                valid_detections = np.array(valid_detections)
-                scores = detections[0, 0, :len(valid_detections), 2]
-                indices = cv2.dnn.NMSBoxes(
-                    valid_detections.tolist(),
-                    scores.tolist(),
-                    self.model_config['confidence_threshold'],
-                    self.model_config['nms_threshold']
-                )
-                if len(indices) > 0:  # 确保indices不为空
-                    indices = indices.flatten()
-                    valid_detections = valid_detections[indices]
-
-            return np.array(valid_detections)
-
-        except Exception as e:
-            logging.error(f"Detection error: {str(e)}")
-            return np.array([])
-
-    def apply_box_adjustments(self, box_adjustments, detections):
-        """应用边界框调整"""
-        if len(detections) == 0:
-            return
-
-        # 将调整应用到所有检测框
-        adjustments = np.array([
-            box_adjustments[0] * 10,  # x调整
-            box_adjustments[1] * 10,  # y调整
-            box_adjustments[2] * 5,  # 宽度调整
-            box_adjustments[3] * 5  # 高度调整
-        ], dtype=np.float32)  # 确保使用float32类型
-
-        # 先进行调整计算，然后再转换为整数
-        adjusted_detections = detections.astype(np.float32)
-        adjusted_detections[:, :4] += adjustments
-
-        # 最后转换回整数类型
-        detections[:] = adjusted_detections.round().astype(np.int64)
 
     def calculate_iou(self, box1, box2):
         """计算两个框的IOU"""
